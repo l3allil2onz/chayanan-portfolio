@@ -2,7 +2,7 @@
 Collect all my portfolio
 
 # Cybersecurity Draft Statement
-Collect my cybersecurity portfolio
+My draft statement
 
 ### Strengths
 
