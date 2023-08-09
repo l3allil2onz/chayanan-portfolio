@@ -1,0 +1,9 @@
+Generate hashes for files
+- compute hashes using sha256sum.
+Display hashes
+- display hashes using the cat command.
+Compare hashes
+- compare hashes using the cmp command.
+
+These are valuable tools you can use to validate data integrity
+as you contribute to the control of your organization’s security.
