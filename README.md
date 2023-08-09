@@ -2,7 +2,7 @@
 Collect all my portfolio
 
 # Certificates
-  <img src="Certificates/GoogleCybersecurity.png" height="300" width="400"/> 
+  <img src="GoogleCybersecurity.png" height="300" width="400"/> 
 
 # Cybersecurity Draft Statement
 My draft statement
